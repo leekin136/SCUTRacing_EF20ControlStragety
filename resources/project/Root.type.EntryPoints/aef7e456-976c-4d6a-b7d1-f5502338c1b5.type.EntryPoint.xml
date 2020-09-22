@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="1" Icon="" File="SCUTGUI.mlapp" Name="SCUTGUI">
+    <Extension Value="38a89812-e821-4a78-8816-c3ff758ec470" Name="StartUpPrev" />
+</Info>

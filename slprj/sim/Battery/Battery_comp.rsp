@@ -1,0 +1,8 @@
+-I"C:\Users\Administrator\Desktop\新建文件夹 (3)\Scutracing\SCUTRacing\Eracing2020\SCUTRacing_EF20SimulinkProject"
+-I"C:\Users\Administrator\Desktop\新建文件夹 (3)\Scutracing\SCUTRacing\Eracing2020\SCUTRacing_EF20SimulinkProject\slprj\sim\Battery"
+-ID:\matlab2020aa\extern\include
+-ID:\matlab2020aa\simulink\include
+-ID:\matlab2020aa\rtw\c\src
+-ID:\matlab2020aa\rtw\c\src\ext_mode\common
+-ID:\matlab2020aa\rtw\c\ert
+-I"C:\Users\Administrator\Desktop\新建文件夹 (3)\Scutracing\SCUTRacing\Eracing2020\SCUTRacing_EF20SimulinkProject\slprj\sim\_sharedutils"
